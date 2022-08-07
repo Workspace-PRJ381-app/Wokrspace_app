@@ -4,3 +4,5 @@ This is a job finding application that will target individuals in low income are
  #### TABLE OF CONTENTS
  - [Introduction](#introduction)
  - [Features](#-features)
+     - [Applying for a job]
+     - [Employing someone]
