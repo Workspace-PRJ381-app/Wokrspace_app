@@ -2,5 +2,5 @@
 This is a job finding application that will target individuals in low income areas  to help decrease the unemployment rate within a community
  
  #### TABLE OF CONTENTS
- -[Introduction](#introduction)
- -[Features](#-features)
+ - [Introduction](#introduction)
+ - [Features](#-features)
