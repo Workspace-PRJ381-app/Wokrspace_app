@@ -1,7 +1,7 @@
 # <h1 align = "center">WORKSPACE<h1>
 This is a job finding application that will target individuals in low income areas  to help decrease the unemployment rate within a community
  
- #### TABLE OF CONTENTS
+ ### TABLE OF CONTENTS
  - [Introduction](#introduction)
  - [Features](#-features)
     - [Employee](#-employee)
@@ -9,7 +9,7 @@ This is a job finding application that will target individuals in low income are
 
  
  
- ## Introduction 
+ ## [Introduction] 
  <br>
  Our motivation behind the project is to tackle the workforce balancing problem. Anyone who is 
 actively looking for a job or even employers will be able to use the application. The focus of this project 
@@ -19,14 +19,20 @@ curriculum vitae of the user only visible to verified organizations. The applica
 when a job opportunity they might be interested in has appeared near them or in their area.
 
  <br>
- ## Features
+ ## [Features]
  <br>
+ 
  **Features will be described here**
+ 
  <br>
-The application will have a main point of entry with 2 different users, People Looking to get a job and employer.
-<br>
-## [Employee]
+
+ The application will have a main point of entry with 2 different users, People Looking to get a job and employer.
+
  <br>
+
+ ## [Employee]
+ <br>
+ 
  This is the person looking for a job and they will:
  -Register and sign in
  -They will be able to see the jobs available
