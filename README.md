@@ -34,12 +34,12 @@ when a job opportunity they might be interested in has appeared near them or in 
  <br>
  
  This is the person looking for a job and they will:
- <br>
--Register and sign in
- <br>
--They will be able to see the jobs available
-  <br>
+
+- Register and sign in
+
+- They will be able to see the jobs available
+
 - They will be able to report an employer incase they were not paid or an altercation has ocurrred. This is a security feature that is added to the advantage of the employee
-  <br>
--They will be able to view the profile of a worker and view the reviews that other employees have given to that employer
-  <br>
+
+- They will be able to view the profile of a worker and view the reviews that other employees have given to that employer
+
