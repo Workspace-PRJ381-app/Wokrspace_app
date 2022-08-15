@@ -8,7 +8,7 @@ This is a job finding application that will target individuals in low income are
     - [Employer](#-employer)
  - [Development Rules and Coding Standards](#development-and-coding)
  - [Workflow and Important Project Tools](#-workflow-and-important-project-tools)
- - [Project Map](project-map-dont-get-lost-lol)
+ - [Project Map](#-project-map-dont-get-lost-lol)
  
  
  ## [Introduction] 
@@ -53,7 +53,7 @@ when a job opportunity they might be interested in has appeared near them or in 
 
 # <h2 align = "center">Development and Coding</h2>
 
-##  Devolpment Rules and Coding Standards
+ ##  Devolpment Rules and Coding Standards
  
  It is important the there are coding standards and rules to ensure that the quality of code and consistency within the code is always present
  
@@ -79,7 +79,7 @@ when a job opportunity they might be interested in has appeared near them or in 
     
 <br>
  
- ## Workflow and Important Project Tools
+## Workflow and Important Project Tools
 >Click any of the blue text below to view the documentation for the framework or library
 <br>
 
