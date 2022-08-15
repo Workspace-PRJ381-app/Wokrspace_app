@@ -124,5 +124,4 @@ React native Libraries:
 - [Firebase Firestore](https://firebase.google.com/docs/firestore?authuser=0)
 - [Firebase Authentication](https://firebase.google.com/docs/auth?authuser=0)
 
-
- ## [Project Map]
+## [Project Map]
