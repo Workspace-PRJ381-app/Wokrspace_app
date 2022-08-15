@@ -6,9 +6,9 @@ This is a job finding application that will target individuals in low income are
  - [Features](#-features)
     - [Employee](#-employee)
     - [Employer](#-employer)
- - [Development Rules and Coding Standards](#development-and-coding)
- - [Workflow and Important Project Tools](#-workflow-and-important-project-tools)
- - [Project Map](#-project-map-dont-get-lost-lol)
+- [Development Rules and Coding Standards](#development-and-coding)
+- [Workflow and Important Project Tools](#-workflow-and-important-project-tools)
+- [Project Map](#-project-map-dont-get-lost-lol)
  
  
  ## [Introduction] 
