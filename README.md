@@ -42,9 +42,9 @@ when a job opportunity they might be interested in has appeared near them or in 
  ### [Employer]
  <br>
  This will be the person providing the jobs
- - Employers will be allowed to post job openings that are available to all users
- - They will be able to view the profiles of these recommendations and request a meeting with them
- - This feature will be exclusive to business profiles to ensure the safety of all users
+- Employers will be allowed to post job openings that are available to all users
+- They will be able to view the profiles of these recommendations and request a meeting with them
+- This feature will be exclusive to business profiles to ensure the safety of all users
  
  <br>
 
