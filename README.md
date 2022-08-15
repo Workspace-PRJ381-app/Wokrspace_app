@@ -25,7 +25,8 @@ when a job opportunity they might be interested in has appeared near them or in 
  <br>
 The application will have a main point of entry with 2 different users, People Looking to get a job and employer.
 <br>
- ### [Employee](#-employee):
+ ### Employee
+ <br>
  This is the person looking for a job and they will:
  -Register and sign in
  -They will be able to see the jobs available
