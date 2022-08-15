@@ -18,17 +18,13 @@ professional profile. Their profile will contain their interests, strengths, and
 curriculum vitae of the user only visible to verified organizations. The application will notify users 
 when a job opportunity they might be interested in has appeared near them or in their area.
 
- <br>
-  ## [Features]
-
+ 
+ ## [Features]
+<br>
  
  **Features will be described here**
  
- <br>
-
  The application will have a main point of entry with 2 different users, People Looking to get a job and employer.
-
- <br>
 
  ## [Employee]
  <br>
