@@ -19,8 +19,8 @@ curriculum vitae of the user only visible to verified organizations. The applica
 when a job opportunity they might be interested in has appeared near them or in their area.
 
  <br>
- ## [Features]
- <br>
+  ## [Features]
+
  
  **Features will be described here**
  
