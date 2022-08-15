@@ -53,7 +53,7 @@ when a job opportunity they might be interested in has appeared near them or in 
 
 # <h2 align = "center">Development and Coding</h2>
 
- ##  Devolpment Rules and Coding Standards
+ ## Devolpment Rules and Coding Standards
  
  It is important the there are coding standards and rules to ensure that the quality of code and consistency within the code is always present
  
