@@ -49,7 +49,6 @@ when a job opportunity they might be interested in has appeared near them or in 
 - They will be able to view the profiles of these recommendations and request a meeting with them
 - This feature will be exclusive to business profiles to ensure the safety of all users
  
- <br>
 
 # <h2 align = "center">Development and Coding</h2>
 
@@ -125,6 +124,5 @@ React native Libraries:
 - [Firebase Firestore](https://firebase.google.com/docs/firestore?authuser=0)
 - [Firebase Authentication](https://firebase.google.com/docs/auth?authuser=0)
 
-<br>
 
  ## [Project Map]
