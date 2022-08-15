@@ -26,16 +26,54 @@ when a job opportunity they might be interested in has appeared near them or in 
  
  The application will have a main point of entry with 2 different users, People Looking to get a job and employer.
 
- ## [Employee]
+ ### [Employee]
  <br>
  
  This is the person looking for a job and they will:
 
 - Register and sign in
-
 - They will be able to see the jobs available
-
 - They will be able to report an employer incase they were not paid or an altercation has ocurrred. This is a security feature that is added to the advantage of the employee
-
 - They will be able to view the profile of a worker and view the reviews that other employees have given to that employer
+- Their profile will contain their interests, strengths, and weaknesses
+- There will be a built in CV builder in the app as this is a way to provide references to future corporate employment
+ 
+  ### [Employer]
+ <br>
+ This will be the person providing the jobs
+ - Employers will be allowed to post job openings that are available to all users
+ - They will be able to view the profiles of these recommendations and request a meeting with them
+ - This feature will be exclusive to business profiles to ensure the safety of all users
+ 
+ <br>
 
+# <h2 align = "center">Development and Coding</h2>
+
+
+##  Devolpment Rules and Coding Standards
+ 
+ It is important the there are coding standards and rules to ensure that the quality of code and consistency within the code is always present
+ 
+ **Programming Rules:**
+- Ensure that your code is readable
+- consistency in the naming of variables and functions
+- names must make sense
+- no innapropriate variable names ( nothing racist, sexual or rude in any way )
+- Naming conventions(This applies to variables, files, functions):
+    - files should be named consistently
+    - file names should be short but descriptive (< 25 characters)
+    - Avoid special characters or spaces in a file name
+    - use capitals and underscores instead of periods or spaces or slashes
+    - use date format ISO 8601: YYYYMMDD
+    - Include a version number
+    - Write down naming convention in data management plan
+    - Hierarchical file structures
+    - Make use of **camelCase** or **PascalCase**, remain within these naming conventions where possible 
+<br>
+ 
+ **Testing Rules**:
+- When making a testing account make use of the existing testing account to sign in : test@test.com ( this works for both worker and client sides)
+    
+<br>
+ 
+ 
