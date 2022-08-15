@@ -118,7 +118,8 @@ React native Libraries:
 <br>
 - [React Native Elements](https://reactnativeelements.com/)
 <br>
-**Back-end frameworks:**
+ 
+ **Back-end frameworks:**
 <br>
 - [Firebase](https://firebase.google.com/docs/)
 - [Firebase Firestore](https://firebase.google.com/docs/firestore?authuser=0)
@@ -126,4 +127,4 @@ React native Libraries:
 
 <br>
 
- ## Project Map (Don't get lost lol)
+ ## [Project Map]
