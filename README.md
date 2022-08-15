@@ -7,7 +7,8 @@ This is a job finding application that will target individuals in low income are
     - [Employee](#-employee)
     - [Employer](#-employer)
  - [Development Rules and Coding Standards](#development-and-coding)
-
+ - [Workflow and Important Project Tools](#-workflow-and-important-project-tools)
+ - [Project Map](project-map-dont-get-lost-lol)
  
  
  ## [Introduction] 
@@ -78,4 +79,51 @@ when a job opportunity they might be interested in has appeared near them or in 
     
 <br>
  
- 
+ ## Workflow and Important Project Tools
+>Click any of the blue text below to view the documentation for the framework or library
+<br>
+
+**Firebase Firestore Console:[Firebase Console for Thealoade]
+(Link to be added)**
+<br>
+This is the console for the backend, the link above will navigate to the firebase console. You will be able to view the data that is used for the application in the backend
+<br>
+**Work progress tool:[Workspace Project](https://github.com/orgs/Workspace-PRJ381-app/projects/1)**
+<br>
+Make use of the [Workspace Project](https://github.com/orgs/Workspace-PRJ381-app/projects/1) to keep track of your progress on the project above.
+There are 4 Columns: No Status, To Do, In Progress, Review, Done.
+<br>
+
+**This is a description of the columns:**
+- No Status: This column is the work that still needs to be done
+- To-Do: This column is the work that has not been yet but must be done
+- In progress: This column is where cards are put about tasks that are being worked on
+- Awaiting Review: Tasks are placed here waiting to be reviewed
+- Review in progress: The tasks in this column are being reviewed
+- Done: The tasks in this column are the final version of the reviewed, they have no more revisions needed
+
+<br>
+
+**Bugs** Ue the [issues tab](https://github.com/Workspace-PRJ381-app/Wokrspace_app/issues) to add issues and keep tabs on the bugs that will occur
+
+**Design link:**
+[Front end design in figma](https://www.figma.com/team_invite/redeem/QhGKqheDuOBlXG5mdIjAXG)
+
+**Frame works:**
+<br>
+- [React](https://reactjs.org/)
+- [React Native](https://reactnative.dev/docs/getting-started)
+<br>
+React native Libraries:
+<br>
+- [React Native Elements](https://reactnativeelements.com/)
+<br>
+**Back-end frameworks:**
+<br>
+- [Firebase](https://firebase.google.com/docs/)
+- [Firebase Firestore](https://firebase.google.com/docs/firestore?authuser=0)
+- [Firebase Authentication](https://firebase.google.com/docs/auth?authuser=0)
+
+<br>
+
+## Project Map (Don't get lost lol)
