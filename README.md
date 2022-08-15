@@ -79,7 +79,7 @@ when a job opportunity they might be interested in has appeared near them or in 
     
 <br>
  
-## Workflow and Important Project Tools
+ ## Workflow and Important Project Tools
 >Click any of the blue text below to view the documentation for the framework or library
 <br>
 
@@ -126,4 +126,4 @@ React native Libraries:
 
 <br>
 
-## Project Map (Don't get lost lol)
+ ## Project Map (Don't get lost lol)
