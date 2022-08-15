@@ -5,7 +5,8 @@ This is a job finding application that will target individuals in low income are
  - [Introduction](#introduction)
  - [Features](#-features)
     - [Employee](#-employee)
-    - [Employer]
+    - [Employer](#-employer)
+ - [Development Rules and Coding Standards](#development-and-coding)
 
  
  
@@ -38,7 +39,7 @@ when a job opportunity they might be interested in has appeared near them or in 
 - Their profile will contain their interests, strengths, and weaknesses
 - There will be a built in CV builder in the app as this is a way to provide references to future corporate employment
  
-  ### [Employer]
+ ### [Employer]
  <br>
  This will be the person providing the jobs
  - Employers will be allowed to post job openings that are available to all users
@@ -48,7 +49,6 @@ when a job opportunity they might be interested in has appeared near them or in 
  <br>
 
 # <h2 align = "center">Development and Coding</h2>
-
 
 ##  Devolpment Rules and Coding Standards
  
