@@ -19,13 +19,13 @@ curriculum vitae of the user only visible to verified organizations. The applica
 when a job opportunity they might be interested in has appeared near them or in their area.
 
  <br>
- ## ➕ Features
+ ## Features
  <br>
- ** Features will be described here**
+ **Features will be described here**
  <br>
 The application will have a main point of entry with 2 different users, People Looking to get a job and employer.
 <br>
- ### Employee
+## [Employee]
  <br>
  This is the person looking for a job and they will:
  -Register and sign in
