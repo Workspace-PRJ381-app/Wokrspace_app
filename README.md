@@ -79,6 +79,7 @@ when a job opportunity they might be interested in has appeared near them or in 
 <br>
  
  ## [Workflow and Important Project Tools]
+ 
 >Click any of the blue text below to view the documentation for the framework or library
 <br>
 
