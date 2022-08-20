@@ -2,6 +2,8 @@ import React from "react";
 import {View, Text, ImageBackground} from "react-native";
 import GlobalStyle from "../utils/GlobalStyle";
 
+//TODO implement UI
+
 const Welcomescreen = ({navigation}) => {
 
     return (

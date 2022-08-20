@@ -1,10 +1,8 @@
 import { NavigationContainer } from "@react-navigation/native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import React from "react";
-import { View,Text } from "react-native";
 import Registerscreen from "../screens/Registerscreen";
 import Homescreen from "../screens/Homescreen";
-import App from "../../App";
 import GlobalStyle from "../utils/GlobalStyle";
 import Welcomescreen from "../screens/Welcomescreen";
 

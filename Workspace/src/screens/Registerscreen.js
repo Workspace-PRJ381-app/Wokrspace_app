@@ -16,6 +16,9 @@ import {
 import CustomButton from "../components/CustomButton";
   import GlobalStyle from "../utils/GlobalStyle";
 
+  //TODO Complete screen and add tab navgator for Register and Login 
+  //TODO Create login screen
+
   
 const Registerscreen = ({navigation}) => {
   
