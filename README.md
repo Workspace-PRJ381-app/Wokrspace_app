@@ -9,7 +9,7 @@ This is a job finding application that will target individuals in low income are
 - [Development Rules and Coding Standards](#development-and-coding)
 - [Workflow and Important Project Tools](#workflow-and-important-project-tools)
 - [Getting Started](#getting-started)
-    - [Runnnig The App](#running-the-app)
+    - [Runnnig The App](#-running-the-app)
 - [Project Map](#project-map)
  
  
