@@ -8,6 +8,8 @@ This is a job finding application that will target individuals in low income are
     - [Employer](#-employer)
 - [Development Rules and Coding Standards](#development-and-coding)
 - [Workflow and Important Project Tools](#workflow-and-important-project-tools)
+- [Getting Started](#getting-started)
+    -[Runnnig The App](#running-the-app)
 - [Project Map](#project-map)
  
  
@@ -83,8 +85,8 @@ when a job opportunity they might be interested in has appeared near them or in 
 >Click any of the blue text below to view the documentation for the framework or library
 <br>
 
-**Firebase Firestore Console:[Firebase Console for Thealoade]
-(Link to be added)**
+**Firebase Firestore Console:[Firebase Console for Workspace]
+(https://console.firebase.google.com/u/0/project/workspace-e658d/overview)**
 <br>
 This is the console for the backend, the link above will navigate to the firebase console. You will be able to view the data that is used for the application in the backend
 <br>
@@ -125,4 +127,26 @@ React native Libraries:
 - [Firebase Firestore](https://firebase.google.com/docs/firestore?authuser=0)
 - [Firebase Authentication](https://firebase.google.com/docs/auth?authuser=0)
 
+## [Getting started]
+>This is how you will have to install the application
+<br>
+
+- Install [Git](https://git-scm.com/downloads)
+- Now open visual studio code
+- once opened you will clone the repository from the options provided below
+![image](https://user-images.githubusercontent.com/75635691/186444879-6a477088-eb30-417d-857e-b43fb91c1f0e.png)
+- Then type in workspace in the search bar and you should get this
+![image](https://user-images.githubusercontent.com/75635691/186445145-c1068760-79ca-48e5-87e0-d26e43d8f563.png)
+- After cloning the repository open the main folder containing everything and then open a new  intergrated terminal. Make sure the directory is '~/Workspace_app-1/Workspace (main)' AND IT IS IN BASH AND NOT TERMINAL
+- run the code 'npm install'
+- you should have the app installed with all the modules
+
+### [Runnnig The App]
+- type in 'npx react-native run-android' to run the app in your emulator
+- for ios this should be a very similar experience by replacing 'android' to 'ios'
+<br>
+
+
 ## [Project Map]
+> The screens of the applications are divided into 2 sections mainly worker and employee
+<br>
