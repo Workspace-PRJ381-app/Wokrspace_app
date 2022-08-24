@@ -9,7 +9,7 @@ This is a job finding application that will target individuals in low income are
 - [Development Rules and Coding Standards](#development-and-coding)
 - [Workflow and Important Project Tools](#workflow-and-important-project-tools)
 - [Getting Started](#getting-started)
-    - [Runnnig The App](#-running-the-app)
+    - [Running The App](#-running-the-app)
 - [Project Map](#project-map)
  
  
@@ -141,7 +141,7 @@ React native Libraries:
 - run the code 'npm install'
 - you should have the app installed with all the modules
 
-### [Runnnig The App]
+### [Running The App]
 - type in 'npx react-native run-android' to run the app in your emulator
 - for ios this should be a very similar experience by replacing 'android' to 'ios'
 <br>
