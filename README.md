@@ -143,6 +143,7 @@ React native Libraries:
 
 ### [Running The App]
  <br>
+ 
 - type in 'npx react-native run-android' to run the app in your emulator
 - for ios this should be a very similar experience by replacing 'android' to 'ios'
 
