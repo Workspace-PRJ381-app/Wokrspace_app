@@ -141,6 +141,60 @@ React native Libraries:
 - run the code 'npm install'
 - you should have the app installed with all the modules
 
+## 💻 Install
+
+First you need to install Nodejs and npm, this is different depending on the OS you are running so it is easier to check the node [page](https://nodejs.org/en/download/)
+
+Install [expo](https://expo.io/learn), if it fails run you might need to run this with sudo
+```sh
+npm install expo-cli --global
+```
+**SOMETIMES EXPO DOES NOT GET ADDED TO YOUR PATH MAKE SURE IT GETS ADDED EITHER MANUALLY OR FIND THE BINARIES IN YOUR DIRECTORY THEN FIND IT.**
+
+Install the needed packages while in the root folder of the project
+```sh
+npm install
+```
+
+All other dependencies will be in the **[package.json file](https://github.com/The-Aloadae/Thealoade/blob/main/package.json)**
+
+## 📱 Using Expo
+The expo documentation:
+https://docs.expo.io/workflow/expo-cli/ 
+
+
+
+To Start expo all you have to do is run this line
+```sh
+expo start
+```
+Use the following line to clear the cache
+```sh
+expo start -c
+```
+Use the following line to use Expo to build web verions
+```sh
+expo start -w
+```
+
+Use the following line to use Expo to build android version
+```sh
+expo start -a
+```
+Use the following line to use Expo to build IOS version
+```sh
+expo start -i
+```
+>Expo should immediately be launched.<br>
+>If you want to run on android you'll need to enable developer options and USB Debugging on your device<br>
+>...<br>
+>Installation on ios and android devices<br>
+>   Make sure you have adb or developer mode enabled and the adb debugging on so that you can install the app on android.
+    Plug in your phone into your computer then use the CLI commands to install either that or expo will give a QR code then make sure both devices are on the same network it should install that way too.
+> <br>
+
+<br>
+
 ### [Running The App]
  <br>
  
