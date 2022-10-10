@@ -4,8 +4,8 @@ This is a job finding application that will target individuals in low income are
  ### TABLE OF CONTENTS
  - [Introduction](#introduction)
  - [Features](#-features)
-    - [Employee](#-employee)
-    - [Employer](#-employer)
+    - [Client](#-client)
+    - [Worker](#-worker)
 - [Development Rules and Coding Standards](#development-and-coding)
 - [Workflow and Important Project Tools](#workflow-and-important-project-tools)
 - [Getting Started](#getting-started)
@@ -30,7 +30,7 @@ when a job opportunity they might be interested in has appeared near them or in 
  
  The application will have a main point of entry with 2 different users, People Looking to get a job and employer.
 
- ### [Employee]
+ ### [Client]
  <br>
  
  This is the person looking for a job and they will:
@@ -42,7 +42,7 @@ when a job opportunity they might be interested in has appeared near them or in 
 - Their profile will contain their interests, strengths, and weaknesses
 - There will be a built in CV builder in the app as this is a way to provide references to future corporate employment
  
- ### [Employer]
+ ### [Worker]
  <br>
  
  This will be the person providing the jobs
