@@ -109,7 +109,7 @@ There are 4 Columns: No Status, To Do, In Progress, Review, Done.
 **Bugs** Use the [issues tab](https://github.com/Workspace-PRJ381-app/Wokrspace_app/issues) to add issues and keep tabs on the bugs that will occur
 
 **Design link:**
-[Front end design in figma](https://www.figma.com/team_invite/redeem/QhGKqheDuOBlXG5mdIjAXG)
+[Front end design in figma](https://www.figma.com/file/c9V90jWQc03CX384U7NQz6/UI_Design?node-id=0%3A1)
 
 **Frame works:**
 <br>
