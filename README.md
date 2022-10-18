@@ -11,6 +11,21 @@ This is a job finding application that will target individuals in low income are
 - [Getting Started](#getting-started)
     - [Running The App](#running-the-app)
 - [Project Map](#project-map)
+ - [Programming Features](#-programming-features)
+            - [Overall features](#overall-features)
+                - [Messaging](#-messaging)
+                - [Assets](#-assets)
+                - [Components](#-components-folder) 
+            - [Client](#-client) <= If you are working on the client side 🧑‍🦱 , you will be working here.
+                - [Requests](#%EF%B8%8F-requests)
+                - [Schedule](#-schedule)
+                - [Worker](#-workers)
+            - [Workers](#%EF%B8%8F-worker-user-1) <= If you are working on the worker side 👷 , you will be working here.
+                - [Browse](#-browse-1)
+                - [Available Jobs](#-available-jobs)
+                - [Schedule](#-schedule-1)
+                - [Stats](#-stats)
+            
  
  
  ## [Introduction] 
@@ -206,3 +221,44 @@ expo start -i
 ## [Project Map]
 > The screens of the applications are divided into 2 sections mainly worker and employee
 <br>
+ ├── [App.js](https://github.com/The-Aloadae/Thealoade/blob/main/App.js): Main access point into the application <br>
+├── app.json <br>
+├── [assets](#-assets): Contains all the assest of the application (logos, splash etc.)<br>
+│   ├ ... <br>
+├── babel.config.js<br>
+├── Changelog.txt<br>
+├── [Client](#Client) <= If you are working on the client side 🧑‍🦱 , you will be working here.<br>
+│   ├── [JobRequests](#%EF%B8%8F-requests): This folder deals with the job request feature<br>
+│   │   └ ... <br>
+│   ├── [Messaging](#-messaging): This is the messaging feature for the Client side<br>
+│   │   └ ... <br>
+│   ├── [ScheduledJobs](#-schedule): this is the feature that will give an overview of all(upcomming or previous) jobs, job requests<br>
+│   │   └... <br>
+│   └── [Workers](#-workers): this is the page where clients can view all workers(certified/promoted), news, etc.<br>
+│       ├ ...<br>
+├── [components](#components-file): The components folder stores the authentication screens (sign up, login) for both workers and client aswell as the landing pages after the user logs in<br>
+│   ├── [auth](https://github.com/The-Aloadae/Thealoade/tree/main/components/auth) <br>
+│   │   ├── [Client](https://github.com/The-Aloadae/Thealoade/tree/main/components/auth/Client) <br>
+│   │   │   ├ ...<br>
+│   │   ├── [Langing.js](https://github.com/The-Aloadae/Thealoade/blob/main/components/auth/Langing.js)<br>
+│   │   └── [Worker](https://github.com/The-Aloadae/Thealoade/tree/main/components/auth/Worker)<br>
+│   │       ├ .. <br>
+│   ├── [clientMain.js](https://github.com/The-Aloadae/Thealoade/blob/main/components/clientMain.js)<br>
+│   └── [workerMain.js](https://github.com/The-Aloadae/Thealoade/tree/main/components)<br>
+├── [LandingScreens](https://github.com/The-Aloadae/Thealoade/tree/main/LandingScreens): This folder contains the landing screens for new users or users who are not logged in, serving as two entry points into the application Client and Worker which will take you to the respective user screens<br>
+│   ├── [Clients.js](https://github.com/The-Aloadae/Thealoade/blob/main/LandingScreens/Clients.js)<br>
+│   ├── [ScreenDesigning](https://github.com/The-Aloadae/Thealoade/tree/main/LandingScreens/ScreenDesigning)<br>
+│   │   ├ ...<br>
+│   └── [Workers.js](https://github.com/The-Aloadae/Thealoade/blob/main/LandingScreens/Workers.js)<br>
+├── [package.json](https://github.com/The-Aloadae/Thealoade/blob/main/package.json)<br>
+├── [package-lock.json](https://github.com/The-Aloadae/Thealoade/blob/main/package-lock.json)<br>
+├── README.md<br>
+├── [redux](https://github.com/The-Aloadae/Thealoade/tree/main/redux)<br>
+│   ├ ... <br>
+└── [Worker](#%EF%B8%8F-worker-user-1) <= If you are working on the worker side 👷 , you will be working here.<br>
+    ├ ...<br>
+ # ⚓ Programming Features
+
+## Overall features
+<br>
+
