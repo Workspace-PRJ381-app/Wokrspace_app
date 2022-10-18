@@ -16,7 +16,7 @@ This is a job finding application that will target individuals in low income are
     - [Messaging](#-messaging)
     - [Assets](#-assets)
     - [Components](#-components-folder) 
-    - [Client](#-client) <= If you are working on the client side 🧑‍🦱 , you will be working here.
+ - [Client](#-client) <= If you are working on the client side 🧑‍🦱 , you will be working here.
     - [Requests](#%EF%B8%8F-requests)
     - [Schedule](#-schedule)
     - [Worker](#-workers)
