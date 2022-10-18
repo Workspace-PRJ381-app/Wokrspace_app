@@ -12,19 +12,19 @@ This is a job finding application that will target individuals in low income are
     - [Running The App](#running-the-app)
 - [Project Map](#project-map)
  - [Programming Features](#-programming-features)
-            - [Overall features](#overall-features)
-                - [Messaging](#-messaging)
-                - [Assets](#-assets)
-                - [Components](#-components-folder) 
-            - [Client](#-client) <= If you are working on the client side 🧑‍🦱 , you will be working here.
-                - [Requests](#%EF%B8%8F-requests)
-                - [Schedule](#-schedule)
-                - [Worker](#-workers)
-            - [Workers](#%EF%B8%8F-worker-user-1) <= If you are working on the worker side 👷 , you will be working here.
-                - [Browse](#-browse-1)
-                - [Available Jobs](#-available-jobs)
-                - [Schedule](#-schedule-1)
-                - [Stats](#-stats)
+    - [Overall features](#overall-features)
+    - [Messaging](#-messaging)
+    - [Assets](#-assets)
+    - [Components](#-components-folder) 
+    - [Client](#-client) <= If you are working on the client side 🧑‍🦱 , you will be working here.
+    - [Requests](#%EF%B8%8F-requests)
+    - [Schedule](#-schedule)
+    - [Worker](#-workers)
+- [Workers](#%EF%B8%8F-worker-user-1) <= If you are working on the worker side 👷 , you will be working here.
+      - [Browse](#-browse-1)
+      - [Available Jobs](#-available-jobs)
+      - [Schedule](#-schedule-1)
+      - [Stats](#-stats)
             
  
  
