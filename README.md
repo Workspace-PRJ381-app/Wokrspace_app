@@ -237,23 +237,23 @@ expo start -i
 │   └── [Workers](#-workers): this is the page where clients can view all workers(certified/promoted), news, etc.<br>
 │       ├ ...<br>
 ├── [components](#components-file): The components folder stores the authentication screens (sign up, login) for both workers and client aswell as the landing pages after the user logs in<br>
-│   ├── [auth](https://github.com/The-Aloadae/Thealoade/tree/main/components/auth) <br>
-│   │   ├── [Client](https://github.com/The-Aloadae/Thealoade/tree/main/components/auth/Client) <br>
+│   ├── [auth] <br>
+│   │   ├── [Client] <br>
 │   │   │   ├ ...<br>
-│   │   ├── [Langing.js](https://github.com/The-Aloadae/Thealoade/blob/main/components/auth/Langing.js)<br>
-│   │   └── [Worker](https://github.com/The-Aloadae/Thealoade/tree/main/components/auth/Worker)<br>
+│   │   ├── [Langing.js])<br>
+│   │   └── [Worker])<br>
 │   │       ├ .. <br>
-│   ├── [clientMain.js](https://github.com/The-Aloadae/Thealoade/blob/main/components/clientMain.js)<br>
-│   └── [workerMain.js](https://github.com/The-Aloadae/Thealoade/tree/main/components)<br>
-├── [LandingScreens](https://github.com/The-Aloadae/Thealoade/tree/main/LandingScreens): This folder contains the landing screens for new users or users who are not logged in, serving as two entry points into the application Client and Worker which will take you to the respective user screens<br>
-│   ├── [Clients.js](https://github.com/The-Aloadae/Thealoade/blob/main/LandingScreens/Clients.js)<br>
-│   ├── [ScreenDesigning](https://github.com/The-Aloadae/Thealoade/tree/main/LandingScreens/ScreenDesigning)<br>
+│   ├── [clientMain.js]<br>
+│   └── [workerMain.js]<br>
+├── [LandingScreens]: This folder contains the landing screens for new users or users who are not logged in, serving as two entry points into the application Client and Worker which will take you to the respective user screens<br>
+│   ├── [Clients.js]<br>
+│   ├── [ScreenDesigning]<br>
 │   │   ├ ...<br>
-│   └── [Workers.js](https://github.com/The-Aloadae/Thealoade/blob/main/LandingScreens/Workers.js)<br>
-├── [package.json](https://github.com/The-Aloadae/Thealoade/blob/main/package.json)<br>
-├── [package-lock.json](https://github.com/The-Aloadae/Thealoade/blob/main/package-lock.json)<br>
+│   └── [Workers.js]<br>
+├── [package.json]<br>
+├── [package-lock.json]<br>
 ├── README.md<br>
-├── [redux](https://github.com/The-Aloadae/Thealoade/tree/main/redux)<br>
+├── [redux]<br>
 │   ├ ... <br>
 └── [Worker](#%EF%B8%8F-worker-user-1) <= If you are working on the worker side 👷 , you will be working here.<br>
     ├ ...<br>
@@ -261,4 +261,6 @@ expo start -i
 
 ## Overall features
 <br>
+ - The application must have a minimal social media inspired style. Simplistic and simultaniously showing all the improtant information.
+- There will be both a light and dark theme for the application
 
