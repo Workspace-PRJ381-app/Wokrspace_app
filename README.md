@@ -171,7 +171,7 @@ Install the needed packages while in the root folder of the project
 npm install
 ```
 
-All other dependencies will be in the **[package.json file](https://github.com/The-Aloadae/Thealoade/blob/main/package.json)**
+All other dependencies will be in the **[package.json file]**
 
 ## 📱 Using Expo
 The expo documentation:
@@ -221,7 +221,7 @@ expo start -i
 ## [Project Map]
 > The screens of the applications are divided into 2 sections mainly worker and employee
 <br>
- ├── [App.js](https://github.com/The-Aloadae/Thealoade/blob/main/App.js): Main access point into the application <br>
+ ├── [App.js]: Main access point into the application <br>
 ├── app.json <br>
 ├── [assets](#-assets): Contains all the assest of the application (logos, splash etc.)<br>
 │   ├ ... <br>
